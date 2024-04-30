@@ -12,6 +12,7 @@
 
 3. Run the main file.
 
+```
 @article{jin2024pgcn,
   title={PGCN: Pyramidal graph convolutional network for EEG emotion recognition},
   author={Jin, Ming and Du, Changde and He, Huiguang and Cai, Ting and Li, Jinpeng},
@@ -19,3 +20,4 @@
   year={2024},
   publisher={IEEE}
 }
+```
